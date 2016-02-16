@@ -1,7 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b51db33-a35d-42c0-9775-349eb5d7cac1" name="Default" comment="" />
+    <list default="true" id="5b51db33-a35d-42c0-9775-349eb5d7cac1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/RESTfulExample_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/RESTfulExample_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_async_http_client_1_9_20.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_atmosphere_atmosphere_annotations_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_atmosphere_atmosphere_jersey_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_atmosphere_atmosphere_runtime_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_atmosphere_wasync_2_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JerseyAtmosphereExample.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/Track.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/MetallicaClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/MetallicaClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/MetallicaClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/MetallicaClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/MetallicaClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/OmniClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/RamonesClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/RamonesClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/RamonesClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/RamonesClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/client/RamonesClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/rest/MetallicaService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/classes/com/mesview/rest/RamonesService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/async-http-client-1.9.20.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/atmosphere-annotations-2.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/atmosphere-jersey-2.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/atmosphere-runtime-2.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jackson-core-asl-1.9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jackson-jaxrs-1.9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jackson-xc-1.9.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jaxb-api-2.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jaxb-impl-2.2.3-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jersey-client-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jersey-core-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jersey-json-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jersey-server-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jersey-servlet-1.19.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jettison-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/jsr311-api-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/netty-3.10.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/slf4j-api-1.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/stax-api-1.0-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/lib/wasync-2.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MesViewRestfulExample/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/RESTfulExample/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/Track.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/MetallicaClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/MetallicaClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/MetallicaClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/MetallicaClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/MetallicaClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/OmniClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/RamonesClient$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/RamonesClient$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/RamonesClient$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/RamonesClient$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/client/RamonesClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/rest/MetallicaService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/mesview/rest/RamonesService.class" afterPath="" />
+    </list>
     <ignored path="RESTfulExample.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -138,6 +247,14 @@
               <caret line="104" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1810#1811#0" expanded="true" />
+                <element signature="e#1887#1888#0" expanded="true" />
+                <element signature="e#2010#2011#0" expanded="true" />
+                <element signature="e#2069#2070#0" expanded="true" />
+                <element signature="e#3655#3656#0" expanded="true" />
+                <element signature="e#3732#3733#0" expanded="true" />
+                <element signature="e#3855#3856#0" expanded="true" />
+                <element signature="e#3914#3915#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,6 +278,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -223,7 +343,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1929" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
@@ -260,62 +380,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="RESTfulExample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RESTfulExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JerseyAtmosphereExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RESTfulExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JerseyAtmosphereExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RESTfulExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JerseyAtmosphereExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RESTfulExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JerseyAtmosphereExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".settings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -986,21 +1050,20 @@
       <workItem from="1455552963238" duration="792000" />
       <workItem from="1455608335887" duration="995000" />
       <workItem from="1455609816109" duration="13719000" />
-      <workItem from="1455627497285" duration="19000" />
+      <workItem from="1455627497285" duration="725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15525000" />
+    <option name="totallyTimeSpent" value="16231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1929" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1020,6 +1083,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33068183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1177,6 +1241,14 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1887#1888#0" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2069#2070#0" expanded="true" />
+            <element signature="e#3655#3656#0" expanded="true" />
+            <element signature="e#3732#3733#0" expanded="true" />
+            <element signature="e#3855#3856#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1389,6 +1461,14 @@
           <caret line="104" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+            <element signature="e#1887#1888#0" expanded="true" />
+            <element signature="e#2010#2011#0" expanded="true" />
+            <element signature="e#2069#2070#0" expanded="true" />
+            <element signature="e#3655#3656#0" expanded="true" />
+            <element signature="e#3732#3733#0" expanded="true" />
+            <element signature="e#3855#3856#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
           </folding>
         </state>
       </provider>
